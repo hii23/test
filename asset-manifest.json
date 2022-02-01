@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.7abc616c.css",
+    "main.js": "/test/static/js/main.670775c9.js",
+    "static/media/head-1.png": "/test/static/media/head-1.331921ab8eabdec066a4.png",
+    "static/media/schauma-1.png": "/test/static/media/schauma-1.615f8d466d86f5c40bd3.png",
+    "static/media/schauma-2.jpg": "/test/static/media/schauma-2.da47656e69bca4dfcf1c.jpg",
+    "static/media/head-2.png": "/test/static/media/head-2.338268eedec73606a1d9.png",
+    "static/media/jumasenbaga-1.jpg": "/test/static/media/jumasenbaga-1.821f9a26c245f18e02d1.jpg",
+    "static/media/jumasenbaga-2.jpg": "/test/static/media/jumasenbaga-2.10c6772e63ca6528d36e.jpg",
+    "static/media/card-scales.svg": "/test/static/media/card-scales.78c0a707c5ccb281177cd30b0a7fd7a5.svg",
+    "index.html": "/test/index.html",
+    "static/media/card-tick.svg": "/test/static/media/card-tick.3d57ca916087b47ae249eccae2ae1e22.svg",
+    "static/media/card-arrow.svg": "/test/static/media/card-arrow.d22a1eb8f1b9e4ad5ce4b2182621df65.svg",
+    "main.7abc616c.css.map": "/test/static/css/main.7abc616c.css.map",
+    "main.670775c9.js.map": "/test/static/js/main.670775c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abc616c.css",
+    "static/js/main.670775c9.js"
+  ]
+}
